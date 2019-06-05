@@ -1,4 +1,5 @@
 # XCLoginUI
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/fanxiaocong/XCLoginUI.svg?style=flat)](https://travis-ci.org/fanxiaocong/XCLoginUI)
 [![Version](https://img.shields.io/cocoapods/v/XCLoginUI.svg?style=flat)](https://cocoapods.org/pods/XCLoginUI)
@@ -27,3 +28,6 @@ fanxiaocong, 1016697223@qq.com
 ## License
 
 XCLoginUI is available under the MIT license. See the LICENSE file for more info.
+=======
+XCLoginUI，登录页面UI的封装。
+>>>>>>> e8bcd230456ee32eeea5ae5985426fb6c24f0b41
