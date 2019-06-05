@@ -1,0 +1,6 @@
+framework module Pods_XCLoginUI_Example {
+  umbrella header "Pods-XCLoginUI_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

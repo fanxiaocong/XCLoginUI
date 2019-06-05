@@ -1,0 +1,23 @@
+PODS:
+  - XCLoginUI (1.0.0):
+    - XCMacros (~> 1.0.4)
+  - XCMacros (1.0.4)
+
+DEPENDENCIES:
+  - XCLoginUI (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - XCMacros
+
+EXTERNAL SOURCES:
+  XCLoginUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XCLoginUI: cc9bec670441b7d8acdcf58e7959f304ecb32a7b
+  XCMacros: 5509e1b14c53119da138e1f4ce7ba1766f06ad35
+
+PODFILE CHECKSUM: b15b9460a9c6e5eb60637428d0313a2e881e0a35
+
+COCOAPODS: 1.5.3

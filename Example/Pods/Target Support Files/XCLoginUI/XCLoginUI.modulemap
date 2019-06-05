@@ -1,0 +1,6 @@
+framework module XCLoginUI {
+  umbrella header "XCLoginUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

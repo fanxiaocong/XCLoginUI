@@ -8,35 +8,29 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XCLoginUI'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of XCLoginUI.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.version          = '1.0.0'
+  s.summary          = '登录页面的UI'
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+XCLoginUI: 登录页面的UI.
                        DESC
 
   s.homepage         = 'https://github.com/fanxiaocong/XCLoginUI'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fanxiaocong' => '1016697223@qq.com' }
   s.source           = { :git => 'https://github.com/fanxiaocong/XCLoginUI.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'XCLoginUI/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'XCLoginUI' => ['XCLoginUI/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'XCLoginUI' => ['XCLoginUI/Assets/images/*.png',
+                    'XCLoginUI/Assets/*.storyboard'
+                    ]
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'XCMacros', '~> 1.0.4'
+
 end
