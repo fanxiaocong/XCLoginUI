@@ -1,5 +1,5 @@
 //
-//  XCLoginIgnoreHeighlightButton.h
+//  XCLoginIgnoreHighlightButton.h
 //  Pods-XCLoginUI_Example
 //
 //  Created by 樊小聪 on 2019/6/5.
@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface XCLoginIgnoreHeighlightButton : UIButton
+@interface XCLoginIgnoreHighlightButton : UIButton
 
 @end
 

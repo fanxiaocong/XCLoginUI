@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		02B9ED12C448CF8C00149042C2D47279 /* XCLoginIgnoreHeighlightButton.h in Headers */ = {isa = PBXBuildFile; fileRef = F4B5CBB7B7FE9AC361AA51400AD40522 /* XCLoginIgnoreHeighlightButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		07398CE79E75D01E332FE935E37D56D9 /* XCLoginUI.h in Headers */ = {isa = PBXBuildFile; fileRef = 612A8DBAABA4D1455DEECBE32DB86EE2 /* XCLoginUI.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		105ED6C17AB442FFAC387BE93CFFAE6A /* icon_pwd_close@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7205048243BA3768CC2C285DFD8D1EBD /* icon_pwd_close@2x.png */; };
+		105ED6C17AB442FFAC387BE93CFFAE6A /* icon_pwd_close@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1870EAE401B9628658792A77A66849A8 /* icon_pwd_close@2x.png */; };
 		18167925B1DF2C38F7BAD76A57655704 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
-		18DAFDBEC9354CDA158600F3D807820A /* XCLoginUI-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BA3E8FC2A86F25C34326FFF0F901E1F /* XCLoginUI-dummy.m */; };
 		1F1FFB6983B712FB90695D5BCEA98652 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
-		2C668B3F660C11101511304D3E54D58C /* XCLoginUI.m in Sources */ = {isa = PBXBuildFile; fileRef = 389317FB5CB26BCECFBD9C4547739068 /* XCLoginUI.m */; };
+		31488EEBAAE4522FD48810AD3D8BEB56 /* XCLoginUI-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D75A5EEB321AC60B923FBDB77582EC0 /* XCLoginUI-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		322B25074FB56664FCC75E36AD7E0FC1 /* Pods-XCLoginUI_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7350401C5A9FA2C0ACE00CC83A8ECF00 /* Pods-XCLoginUI_Example-dummy.m */; };
 		3E43A72073ADE25112A5169B5B300548 /* Pods-XCLoginUI_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CF7156DB353730ABA3A1B90214C40C9 /* Pods-XCLoginUI_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		54739E031B27E579905A7AF786E98C57 /* icon_pwd_close@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A3477ACA3F3F33CF2076DC99F2A0558 /* icon_pwd_close@3x.png */; };
-		708D5709B71723520A0F3EF2AC862A37 /* icon_pwd_open@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 95AC8A1BE184F935A7FB0C2CD7AB4B21 /* icon_pwd_open@3x.png */; };
+		424DF92D3A51851EEBED05C570C4AC80 /* XCLoginUI.h in Headers */ = {isa = PBXBuildFile; fileRef = F2C6AEA58D19DBB99DC45ED09B14AE5F /* XCLoginUI.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		54739E031B27E579905A7AF786E98C57 /* icon_pwd_close@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78AF5279A4E1C9067DC9720313DA8FFA /* icon_pwd_close@3x.png */; };
+		708D5709B71723520A0F3EF2AC862A37 /* icon_pwd_open@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FEECB432B57EC71B5C8B799613406EB /* icon_pwd_open@3x.png */; };
+		82D71FC4FF1F500BB5E295358BEC16BB /* XCLoginIgnoreHighlightButton.h in Headers */ = {isa = PBXBuildFile; fileRef = B6B01961C8AAAC499A7D1CA4CB6BF698 /* XCLoginIgnoreHighlightButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		83F1AC6AFD2720395D177A77F4FBD5B7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
-		8CD60F6EB80F95DC4B1FD98185FE3DE7 /* icon_pwd_open@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A52B228F216093D9138ED9824F90AFD /* icon_pwd_open@2x.png */; };
-		9D0830A873012EBA4FECD9D41FFD88E3 /* XCLoginIgnoreHeighlightButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 452E5038741E79432B0B92492CD3B255 /* XCLoginIgnoreHeighlightButton.m */; };
+		8CD60F6EB80F95DC4B1FD98185FE3DE7 /* icon_pwd_open@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 840E9AA71264F84A90CCFB8F1734D97B /* icon_pwd_open@2x.png */; };
 		A35D300601A6A75389A16430887239FA /* Pods-XCLoginUI_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A9302A931AB64AD7150E9B34EB85380 /* Pods-XCLoginUI_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AF7B18CF04777EFD6DA30A2B2AD8AB45 /* XCLoginUI.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 791B55D7D0BAD3036669FA9509B04340 /* XCLoginUI.bundle */; };
 		B812AE18B8B6DD6A6D968A21FC8225EA /* Pods-XCLoginUI_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 44BC26EE4E10279DBB183215C60B6578 /* Pods-XCLoginUI_Tests-dummy.m */; };
-		BD2968BD63349E9127F600DEA521B472 /* XCLoginUI.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0824A3A1F25FB6440122ACA70D1123F7 /* XCLoginUI.storyboard */; };
-		CDCB0FC4603F2EF9A294E335B06D3766 /* XCLoginUI-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5DF7667EF471BB6932267E3248761D72 /* XCLoginUI-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B9B8C4F5AA8E427AD891B0460FD3D5B9 /* XCLoginUI.m in Sources */ = {isa = PBXBuildFile; fileRef = D36624C4C160B9B9B146DDEE739D3D4F /* XCLoginUI.m */; };
+		BD2968BD63349E9127F600DEA521B472 /* XCLoginUI.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9874500913948567C3AD782A03F6E44 /* XCLoginUI.storyboard */; };
+		C76E2BBA60EC7DE6D0D085787907E11D /* XCLoginIgnoreHighlightButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C9D9824D45231DCC6427E9982A7AA6 /* XCLoginIgnoreHighlightButton.m */; };
+		CE38BD46437FC0CAEF37FC5F5466BE17 /* XCLoginUI-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EA4D8D49B2DD34B4C2519529F63F89D /* XCLoginUI-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,52 +53,52 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		011578063E2AA753591DE865A1A5D327 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		065EE927C97088F920AB0882F3E8D8A3 /* XCMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XCMacros.h; path = XCMacros/XCMacros.h; sourceTree = "<group>"; };
-		0824A3A1F25FB6440122ACA70D1123F7 /* XCLoginUI.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = XCLoginUI.storyboard; path = XCLoginUI/Assets/XCLoginUI.storyboard; sourceTree = "<group>"; };
-		15B464F627D78671B93B1B4F93E50E12 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		0D75A5EEB321AC60B923FBDB77582EC0 /* XCLoginUI-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XCLoginUI-umbrella.h"; sourceTree = "<group>"; };
+		1870EAE401B9628658792A77A66849A8 /* icon_pwd_close@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_pwd_close@2x.png"; sourceTree = "<group>"; };
 		1A9302A931AB64AD7150E9B34EB85380 /* Pods-XCLoginUI_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XCLoginUI_Tests-umbrella.h"; sourceTree = "<group>"; };
-		1C069CE5ECFAD621A6A2CD7295B14614 /* XCLoginUI.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XCLoginUI.modulemap; sourceTree = "<group>"; };
 		2214731DBACE0F034D13CEFDC2198647 /* Pods-XCLoginUI_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XCLoginUI_Example-resources.sh"; sourceTree = "<group>"; };
 		22F5E45BDEE71A2F1D87B36AE9DF2EDA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2BA3E8FC2A86F25C34326FFF0F901E1F /* XCLoginUI-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XCLoginUI-dummy.m"; sourceTree = "<group>"; };
 		2CF7156DB353730ABA3A1B90214C40C9 /* Pods-XCLoginUI_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XCLoginUI_Example-umbrella.h"; sourceTree = "<group>"; };
 		30A5E46D95752CD4FD5B110F54F0117B /* Pods-XCLoginUI_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XCLoginUI_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		389317FB5CB26BCECFBD9C4547739068 /* XCLoginUI.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XCLoginUI.m; path = XCLoginUI/Classes/XCLoginUI.m; sourceTree = "<group>"; };
-		3A3477ACA3F3F33CF2076DC99F2A0558 /* icon_pwd_close@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_pwd_close@3x.png"; sourceTree = "<group>"; };
-		3BE2E5A619AF656C7463A62AC6378D86 /* ResourceBundle-XCLoginUI-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-XCLoginUI-Info.plist"; sourceTree = "<group>"; };
+		38C9D9824D45231DCC6427E9982A7AA6 /* XCLoginIgnoreHighlightButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XCLoginIgnoreHighlightButton.m; path = XCLoginUI/Classes/XCLoginIgnoreHighlightButton.m; sourceTree = "<group>"; };
 		44BC26EE4E10279DBB183215C60B6578 /* Pods-XCLoginUI_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XCLoginUI_Tests-dummy.m"; sourceTree = "<group>"; };
-		452E5038741E79432B0B92492CD3B255 /* XCLoginIgnoreHeighlightButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XCLoginIgnoreHeighlightButton.m; path = XCLoginUI/Classes/XCLoginIgnoreHeighlightButton.m; sourceTree = "<group>"; };
-		4B813C9A3BE124CFDDC748084DE79995 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5240394530CE23A508F09F716A090C83 /* XCLoginUI.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = XCLoginUI.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		59A13840F68C56DC88D798FDECED73A8 /* Pods-XCLoginUI_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XCLoginUI_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5B18687F557618CD3B08D3DF3F6E9AE4 /* XCLoginUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XCLoginUI.framework; path = XCLoginUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5DF7667EF471BB6932267E3248761D72 /* XCLoginUI-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XCLoginUI-umbrella.h"; sourceTree = "<group>"; };
-		612A8DBAABA4D1455DEECBE32DB86EE2 /* XCLoginUI.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XCLoginUI.h; path = XCLoginUI/Classes/XCLoginUI.h; sourceTree = "<group>"; };
-		61EF37E6DFA165154EC8B8B33C05E0D1 /* XCLoginUI-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XCLoginUI-prefix.pch"; sourceTree = "<group>"; };
-		7205048243BA3768CC2C285DFD8D1EBD /* icon_pwd_close@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_pwd_close@2x.png"; sourceTree = "<group>"; };
+		5E1C34C7F8DED218A97C51D662CDBDDD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		5FEECB432B57EC71B5C8B799613406EB /* icon_pwd_open@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_pwd_open@3x.png"; sourceTree = "<group>"; };
 		7350401C5A9FA2C0ACE00CC83A8ECF00 /* Pods-XCLoginUI_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XCLoginUI_Example-dummy.m"; sourceTree = "<group>"; };
+		78AF5279A4E1C9067DC9720313DA8FFA /* icon_pwd_close@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_pwd_close@3x.png"; sourceTree = "<group>"; };
 		791B55D7D0BAD3036669FA9509B04340 /* XCLoginUI.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = XCLoginUI.bundle; path = "XCLoginUI-XCLoginUI.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79BCA0E4F91D9689890481406B46F427 /* Pods-XCLoginUI_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XCLoginUI_Example.release.xcconfig"; sourceTree = "<group>"; };
-		7A52B228F216093D9138ED9824F90AFD /* icon_pwd_open@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_pwd_open@2x.png"; sourceTree = "<group>"; };
 		7B4EFA77154DB3D13A04F6A9AF78A456 /* Pods-XCLoginUI_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XCLoginUI_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		7EA4D8D49B2DD34B4C2519529F63F89D /* XCLoginUI-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XCLoginUI-dummy.m"; sourceTree = "<group>"; };
 		81224BB3C2D8FFA466DF6E6DA38A3FC2 /* Pods-XCLoginUI_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XCLoginUI_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		89530F5E344258EEBDEDC070A0FB7182 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		840E9AA71264F84A90CCFB8F1734D97B /* icon_pwd_open@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_pwd_open@2x.png"; sourceTree = "<group>"; };
 		9022456777909BFC43630637A4D17086 /* Pods-XCLoginUI_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XCLoginUI_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		9342FC18D7BB752A294ACCA6539866AF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		95AC8A1BE184F935A7FB0C2CD7AB4B21 /* icon_pwd_open@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_pwd_open@3x.png"; sourceTree = "<group>"; };
-		BF8ABE854238C1D2D544A48E80B0BDB0 /* XCLoginUI.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = XCLoginUI.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B6B01961C8AAAC499A7D1CA4CB6BF698 /* XCLoginIgnoreHighlightButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XCLoginIgnoreHighlightButton.h; path = XCLoginUI/Classes/XCLoginIgnoreHighlightButton.h; sourceTree = "<group>"; };
+		C1A3C97F0FBDCDA538FE546B417EEB53 /* XCLoginUI-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XCLoginUI-prefix.pch"; sourceTree = "<group>"; };
 		C7C3AA749FA083B9D24C484167F2B6D9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9874500913948567C3AD782A03F6E44 /* XCLoginUI.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = XCLoginUI.storyboard; path = XCLoginUI/Assets/XCLoginUI.storyboard; sourceTree = "<group>"; };
 		CCB08E22075B68B39D7DA734F6C800B8 /* Pods-XCLoginUI_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XCLoginUI_Tests.modulemap"; sourceTree = "<group>"; };
 		D2D40ED8E3CCCA9C34DB3880B4300A93 /* Pods-XCLoginUI_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XCLoginUI_Example.modulemap"; sourceTree = "<group>"; };
+		D36624C4C160B9B9B146DDEE739D3D4F /* XCLoginUI.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XCLoginUI.m; path = XCLoginUI/Classes/XCLoginUI.m; sourceTree = "<group>"; };
 		D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DBBCE933870AC31D3C01DC501C8F9289 /* Pods-XCLoginUI_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XCLoginUI_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		DDCCDACC35D9A10DCEB6FE42D637F3CD /* XCLoginUI.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XCLoginUI.xcconfig; sourceTree = "<group>"; };
 		DEAFA3B1823C7214039D9AA4FDCF0EB7 /* Pods_XCLoginUI_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XCLoginUI_Example.framework; path = "Pods-XCLoginUI_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F4B5CBB7B7FE9AC361AA51400AD40522 /* XCLoginIgnoreHeighlightButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XCLoginIgnoreHeighlightButton.h; path = XCLoginUI/Classes/XCLoginIgnoreHeighlightButton.h; sourceTree = "<group>"; };
+		E1B06CFADC3F932545635C72F40FACEB /* XCLoginUI.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XCLoginUI.modulemap; sourceTree = "<group>"; };
+		F2C6AEA58D19DBB99DC45ED09B14AE5F /* XCLoginUI.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XCLoginUI.h; path = XCLoginUI/Classes/XCLoginUI.h; sourceTree = "<group>"; };
 		F5830653CBAC7CB32894AAA852FF885A /* Pods-XCLoginUI_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XCLoginUI_Example-frameworks.sh"; sourceTree = "<group>"; };
 		F5CF2EECB094134FBA8F828080DF8FDC /* Pods-XCLoginUI_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XCLoginUI_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		F6666B22123DAA2105965E91BAF60D0E /* Pods-XCLoginUI_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XCLoginUI_Tests-resources.sh"; sourceTree = "<group>"; };
 		F6C08504E53C846A504AABB9A718E3F6 /* Pods-XCLoginUI_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XCLoginUI_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		FB00FACF2BCFEDD4F0FC7209026858F9 /* ResourceBundle-XCLoginUI-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-XCLoginUI-Info.plist"; sourceTree = "<group>"; };
 		FEC0311A6123B95F7D91F1B4105D73B0 /* Pods_XCLoginUI_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XCLoginUI_Tests.framework; path = "Pods-XCLoginUI_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF3CA8E19455BA2CB1744A8F3868109D /* XCLoginUI.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XCLoginUI.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +136,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		078FA4C4102F2B3037A2C9A899B7943D /* images */ = {
+			isa = PBXGroup;
+			children = (
+				1870EAE401B9628658792A77A66849A8 /* icon_pwd_close@2x.png */,
+				78AF5279A4E1C9067DC9720313DA8FFA /* icon_pwd_close@3x.png */,
+				840E9AA71264F84A90CCFB8F1734D97B /* icon_pwd_open@2x.png */,
+				5FEECB432B57EC71B5C8B799613406EB /* icon_pwd_open@3x.png */,
+			);
+			name = images;
+			path = XCLoginUI/Assets/images;
+			sourceTree = "<group>";
+		};
+		2E03D37BB2EA7E7466A8673A3C926631 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				011578063E2AA753591DE865A1A5D327 /* Info.plist */,
+				FB00FACF2BCFEDD4F0FC7209026858F9 /* ResourceBundle-XCLoginUI-Info.plist */,
+				E1B06CFADC3F932545635C72F40FACEB /* XCLoginUI.modulemap */,
+				FF3CA8E19455BA2CB1744A8F3868109D /* XCLoginUI.xcconfig */,
+				7EA4D8D49B2DD34B4C2519529F63F89D /* XCLoginUI-dummy.m */,
+				C1A3C97F0FBDCDA538FE546B417EEB53 /* XCLoginUI-prefix.pch */,
+				0D75A5EEB321AC60B923FBDB77582EC0 /* XCLoginUI-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/XCLoginUI";
+			sourceTree = "<group>";
+		};
 		2F128BE7C6B01B0D338D39992B411ABE /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -153,18 +180,6 @@
 				D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		4F1D84060435E31871D43A2D9384607D /* images */ = {
-			isa = PBXGroup;
-			children = (
-				7205048243BA3768CC2C285DFD8D1EBD /* icon_pwd_close@2x.png */,
-				3A3477ACA3F3F33CF2076DC99F2A0558 /* icon_pwd_close@3x.png */,
-				7A52B228F216093D9138ED9824F90AFD /* icon_pwd_open@2x.png */,
-				95AC8A1BE184F935A7FB0C2CD7AB4B21 /* icon_pwd_open@3x.png */,
-			);
-			name = images;
-			path = XCLoginUI/Assets/images;
 			sourceTree = "<group>";
 		};
 		51C3894548B14F994C2DC7865AB3E4FC /* Pods-XCLoginUI_Tests */ = {
@@ -194,6 +209,21 @@
 			path = XCMacros;
 			sourceTree = "<group>";
 		};
+		6E1C6873F634F7B08CD2615CFC7ABDC2 /* XCLoginUI */ = {
+			isa = PBXGroup;
+			children = (
+				B6B01961C8AAAC499A7D1CA4CB6BF698 /* XCLoginIgnoreHighlightButton.h */,
+				38C9D9824D45231DCC6427E9982A7AA6 /* XCLoginIgnoreHighlightButton.m */,
+				F2C6AEA58D19DBB99DC45ED09B14AE5F /* XCLoginUI.h */,
+				D36624C4C160B9B9B146DDEE739D3D4F /* XCLoginUI.m */,
+				D3D89CD7D8DE6022AF1A0D4DEF05FEDE /* Pod */,
+				7758C1999A7622F1D24663C12F33F2AC /* Resources */,
+				2E03D37BB2EA7E7466A8673A3C926631 /* Support Files */,
+			);
+			name = XCLoginUI;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		701C54E9CC84C8CB21CA649233CC0609 /* Pods-XCLoginUI_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -212,14 +242,13 @@
 			path = "Target Support Files/Pods-XCLoginUI_Example";
 			sourceTree = "<group>";
 		};
-		74486EA20B841FCA32290F73024FD071 /* Pod */ = {
+		7758C1999A7622F1D24663C12F33F2AC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				89530F5E344258EEBDEDC070A0FB7182 /* LICENSE */,
-				15B464F627D78671B93B1B4F93E50E12 /* README.md */,
-				BF8ABE854238C1D2D544A48E80B0BDB0 /* XCLoginUI.podspec */,
+				C9874500913948567C3AD782A03F6E44 /* XCLoginUI.storyboard */,
+				078FA4C4102F2B3037A2C9A899B7943D /* images */,
 			);
-			name = Pod;
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -243,19 +272,10 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		9E87140D88B99652B49414999910FFE0 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				0824A3A1F25FB6440122ACA70D1123F7 /* XCLoginUI.storyboard */,
-				4F1D84060435E31871D43A2D9384607D /* images */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
 		A12D206558CFB646D2CDE338F2C3C551 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				E860778A87048B1D32653E15CFEBC948 /* XCLoginUI */,
+				6E1C6873F634F7B08CD2615CFC7ABDC2 /* XCLoginUI */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -276,39 +296,29 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D0B1389477D1D1EA0E5E941DF31074AF /* Support Files */ = {
+		D3D89CD7D8DE6022AF1A0D4DEF05FEDE /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				4B813C9A3BE124CFDDC748084DE79995 /* Info.plist */,
-				3BE2E5A619AF656C7463A62AC6378D86 /* ResourceBundle-XCLoginUI-Info.plist */,
-				1C069CE5ECFAD621A6A2CD7295B14614 /* XCLoginUI.modulemap */,
-				DDCCDACC35D9A10DCEB6FE42D637F3CD /* XCLoginUI.xcconfig */,
-				2BA3E8FC2A86F25C34326FFF0F901E1F /* XCLoginUI-dummy.m */,
-				61EF37E6DFA165154EC8B8B33C05E0D1 /* XCLoginUI-prefix.pch */,
-				5DF7667EF471BB6932267E3248761D72 /* XCLoginUI-umbrella.h */,
+				9342FC18D7BB752A294ACCA6539866AF /* LICENSE */,
+				5E1C34C7F8DED218A97C51D662CDBDDD /* README.md */,
+				5240394530CE23A508F09F716A090C83 /* XCLoginUI.podspec */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/XCLoginUI";
-			sourceTree = "<group>";
-		};
-		E860778A87048B1D32653E15CFEBC948 /* XCLoginUI */ = {
-			isa = PBXGroup;
-			children = (
-				F4B5CBB7B7FE9AC361AA51400AD40522 /* XCLoginIgnoreHeighlightButton.h */,
-				452E5038741E79432B0B92492CD3B255 /* XCLoginIgnoreHeighlightButton.m */,
-				612A8DBAABA4D1455DEECBE32DB86EE2 /* XCLoginUI.h */,
-				389317FB5CB26BCECFBD9C4547739068 /* XCLoginUI.m */,
-				74486EA20B841FCA32290F73024FD071 /* Pod */,
-				9E87140D88B99652B49414999910FFE0 /* Resources */,
-				D0B1389477D1D1EA0E5E941DF31074AF /* Support Files */,
-			);
-			name = XCLoginUI;
-			path = ../..;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		07F499041FF5E828DF4AD4ADE400BEA0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				82D71FC4FF1F500BB5E295358BEC16BB /* XCLoginIgnoreHighlightButton.h in Headers */,
+				31488EEBAAE4522FD48810AD3D8BEB56 /* XCLoginUI-umbrella.h in Headers */,
+				424DF92D3A51851EEBED05C570C4AC80 /* XCLoginUI.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0FAF2EF0D02C586CF7A59A5D08341DAB /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -322,16 +332,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A35D300601A6A75389A16430887239FA /* Pods-XCLoginUI_Tests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F784202828D1D1C3AAC05944334CD8B3 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				02B9ED12C448CF8C00149042C2D47279 /* XCLoginIgnoreHeighlightButton.h in Headers */,
-				CDCB0FC4603F2EF9A294E335B06D3766 /* XCLoginUI-umbrella.h in Headers */,
-				07398CE79E75D01E332FE935E37D56D9 /* XCLoginUI.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,8 +378,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FEF109161D8552735AF2B23AC5FCDB3E /* Build configuration list for PBXNativeTarget "XCLoginUI" */;
 			buildPhases = (
-				F784202828D1D1C3AAC05944334CD8B3 /* Headers */,
-				4B0F21284A920FE88222B213BDE86DCA /* Sources */,
+				07F499041FF5E828DF4AD4ADE400BEA0 /* Headers */,
+				F4656DD90886E3230FB1F888DCAC1DC2 /* Sources */,
 				D7CA322D8C0222335ECC1A032CA6F838 /* Frameworks */,
 				1BA34A3EEEA2947124C0F976D1BE0D7F /* Resources */,
 			);
@@ -495,20 +495,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4B0F21284A920FE88222B213BDE86DCA /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9D0830A873012EBA4FECD9D41FFD88E3 /* XCLoginIgnoreHeighlightButton.m in Sources */,
-				18DAFDBEC9354CDA158600F3D807820A /* XCLoginUI-dummy.m in Sources */,
-				2C668B3F660C11101511304D3E54D58C /* XCLoginUI.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		856978E8E38AB51C1D53CDF9EBB9B08B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4656DD90886E3230FB1F888DCAC1DC2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C76E2BBA60EC7DE6D0D085787907E11D /* XCLoginIgnoreHighlightButton.m in Sources */,
+				CE38BD46437FC0CAEF37FC5F5466BE17 /* XCLoginUI-dummy.m in Sources */,
+				B9B8C4F5AA8E427AD891B0460FD3D5B9 /* XCLoginUI.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -538,7 +538,7 @@
 /* Begin XCBuildConfiguration section */
 		102E4055704A00CDEA4804424F849FA2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DDCCDACC35D9A10DCEB6FE42D637F3CD /* XCLoginUI.xcconfig */;
+			baseConfigurationReference = FF3CA8E19455BA2CB1744A8F3868109D /* XCLoginUI.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/XCLoginUI";
@@ -554,7 +554,7 @@
 		};
 		3B09F030F4B23E08E27CDAC319747193 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DDCCDACC35D9A10DCEB6FE42D637F3CD /* XCLoginUI.xcconfig */;
+			baseConfigurationReference = FF3CA8E19455BA2CB1744A8F3868109D /* XCLoginUI.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/XCLoginUI";
@@ -700,7 +700,7 @@
 		};
 		7A5110C03A9337648089FD471E2BFBF5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DDCCDACC35D9A10DCEB6FE42D637F3CD /* XCLoginUI.xcconfig */;
+			baseConfigurationReference = FF3CA8E19455BA2CB1744A8F3868109D /* XCLoginUI.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -863,7 +863,7 @@
 		};
 		BD9815C03C1A8ED86793A6749DE8ED5E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DDCCDACC35D9A10DCEB6FE42D637F3CD /* XCLoginUI.xcconfig */;
+			baseConfigurationReference = FF3CA8E19455BA2CB1744A8F3868109D /* XCLoginUI.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

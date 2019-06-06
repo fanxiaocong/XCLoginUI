@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "XCLoginIgnoreHeighlightButton.h"
+#import "XCLoginIgnoreHighlightButton.h"
 #import "XCLoginUI.h"
 
 FOUNDATION_EXPORT double XCLoginUIVersionNumber;

@@ -1,13 +1,13 @@
 //
-//  XCLoginIgnoreHeighlightButton.m
+//  XCLoginIgnoreHighlightButton.m
 //  Pods-XCLoginUI_Example
 //
 //  Created by 樊小聪 on 2019/6/5.
 //
 
-#import "XCLoginIgnoreHeighlightButton.h"
+#import "XCLoginIgnoreHighlightButton.h"
 
-@implementation XCLoginIgnoreHeighlightButton
+@implementation XCLoginIgnoreHighlightButton
 
 - (void)setHighlighted:(BOOL)highlighted {}
 
