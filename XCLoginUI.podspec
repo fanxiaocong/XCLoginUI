@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XCLoginUI'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '登录页面的UI'
 
   s.description      = <<-DESC
